@@ -1,6 +1,6 @@
 {
   "name": "@sengac/tree-sitter-rust",
-  "version": "0.25.12",
+  "version": "0.25.13",
   "description": "Rust grammar for tree-sitter",
   "repository": "https://github.com/sengac/tree-sitter-rust",
   "license": "MIT",
