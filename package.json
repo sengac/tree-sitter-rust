@@ -1,8 +1,8 @@
 {
   "name": "@sengac/tree-sitter-rust",
-  "version": "0.25.3",
+  "version": "0.25.4",
   "description": "Rust grammar for tree-sitter",
-  "repository": "https://github.com/tree-sitter/tree-sitter-rust",
+  "repository": "https://github.com/sengac/tree-sitter-rust",
   "license": "MIT",
   "author": {
     "name": "Maxim Sokolov",
@@ -47,7 +47,7 @@
     "tree-sitter-cli": "^0.24.4"
   },
   "peerDependencies": {
-    "@sengac/tree-sitter": "^0.25.8"
+    "@sengac/tree-sitter": "^0.25.10"
   },
   "peerDependenciesMeta": {
     "@sengac/tree-sitter": {
