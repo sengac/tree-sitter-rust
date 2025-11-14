@@ -1,6 +1,6 @@
 {
   "name": "@sengac/tree-sitter-rust",
-  "version": "0.25.1",
+  "version": "0.25.2",
   "description": "Rust grammar for tree-sitter",
   "repository": "https://github.com/tree-sitter/tree-sitter-rust",
   "license": "MIT",
@@ -47,10 +47,10 @@
     "tree-sitter-cli": "^0.24.4"
   },
   "peerDependencies": {
-    "tree-sitter": "^0.25.0"
+    "@sengac/tree-sitter": "^0.25.6"
   },
   "peerDependenciesMeta": {
-    "tree-sitter": {
+    "@sengac/tree-sitter": {
       "optional": true
     }
   },
